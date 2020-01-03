@@ -1,0 +1,51 @@
+[
+    {
+        "img": "30.gif",
+        "title": "30 dias premium",
+        "description": "Acesso a espaço premium aonde player comuns não podem chegar",
+        "price": "45 pontos = R$ 15,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-e9bb5a08-b171-40d0-b908-154ad16ad891"
+    },
+    {
+        "img": "sword.gif",
+        "title": "Miracuru Sword",
+        "description": "Atk: 69 e Def: 49",
+        "price": "90 pontos = R$ 30,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-b9e5cb75-0c33-41e9-a65a-7a72a0d8754a"
+    },
+    {
+        "img": "axe.gif",
+        "title": "Miracuru Axe",
+        "description": "Atk: 73 e Def: 47",
+        "price": "90 pontos = R$ 30,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-b9e5cb75-0c33-41e9-a65a-7a72a0d8754a"
+    },
+    {
+        "img": "mace.gif",
+        "title": "Miracuru Mace",
+        "description": "Atk: 70 e Def: 48",
+        "price": "90 pontos = R$ 30,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-b9e5cb75-0c33-41e9-a65a-7a72a0d8754a"
+    },
+    {
+        "img": "star.gif",
+        "title": "Miracuru Star",
+        "description": "Atk: 75 e Def: 30",
+        "price": "90 pontos = R$ 30,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-b9e5cb75-0c33-41e9-a65a-7a72a0d8754a"
+    },
+    {
+        "img": "2168.gif",
+        "title": "Miracuru Ring",
+        "description": "Permite health de life e vida, o mesmo não expira",
+        "price": "105 pontos = R$ 35,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-d5ee6cef-665c-4634-8c40-1e846a4dc36a"
+    },
+    {
+        "img": "kk.gif",
+        "title": "100 crystal coins",
+        "description": "1kk, compre os itens em todos os NPC's do game",
+        "price": "15 pontos = R$ 5,00",
+        "linkPag": "https://www.mercadopago.com.br/checkout/v1/redirect?pref_id=454661286-0ed9afef-43e6-4b40-8e33-b8966d492496"
+    }
+]
